@@ -1,0 +1,8 @@
+name: PotionManager
+version: '1.0.0'
+main: de.scholle.potionmanager.PotionManager
+api-version: '1.18'
+prefix: PM
+authors: [ Mobilestars ]
+description: Manage which potions aren't unusable and which cannot be brewed.
+website: https://modrinth.com/project/potionsmanager
